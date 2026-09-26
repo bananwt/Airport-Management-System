@@ -1,4 +1,4 @@
-# Airport System : Assignment 2 
+# Airport System :
 # Meridian Terminal — Ground Operations System
 
 A console application for managing a single shift of ground operations at Meridian Terminal:
